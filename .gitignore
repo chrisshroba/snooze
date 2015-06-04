@@ -1,3 +1,4 @@
 .idea/
 *.pyc
 setup_python.sh
+.venv/
